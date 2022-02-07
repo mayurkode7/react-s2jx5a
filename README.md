@@ -8,6 +8,7 @@
 - You can view expense
 - You can delete expenses
 - App will retain all data in browser memory and you can work with your budget later as well
+- You can remove all data from app and start a fresh with help of Reset App button
 
 # Technology
 
