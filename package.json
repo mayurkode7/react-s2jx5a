@@ -2,7 +2,7 @@
   "name": "react",
   "version": "0.0.0",
   "private": true,
-  "author": "Reactors",
+  "author": "mayurkode@gmail.com",
   "dependencies": {
     "@popperjs/core": "2.11.2",
     "bootstrap": "^5.1.3",
@@ -20,5 +20,17 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
